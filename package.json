@@ -1,8 +1,9 @@
 {
   "name": "import-graphql",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "hainv",
+  "repository": "git@github.com:hainv053/import-graphql.git",
   "engines": {
     "node": ">=4.0.0"
   },
