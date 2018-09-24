@@ -1,0 +1,25 @@
+{
+  "name": "import-graphql",
+  "license": "MIT",
+  "version": "1.0.0",
+  "author": "hainv",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "files": [
+    "build"
+  ],
+  "main": "build/index.js",
+  "typings": "build/index.d.ts",
+  "typescript": {
+    "definition": "build/index.d.ts"
+  },
+  "peerDependencies": {
+    "apollo-server": "^2.1.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.3.0",
+    "typescript": "^3.0.3"
+  }
+}
